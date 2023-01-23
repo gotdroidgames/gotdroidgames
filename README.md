@@ -1,4 +1,3 @@
-- 👋 Merhaba ben metehan gotdroidgames firmasının kurucusu ve yöneticisiyim 
-- 👀 Dijital oyun geliştirme sektöründe iş yapıyorum 
+Gotdroid Games ekibinin github sayfasıdır
 <!--
 Proje hakkında bilgi almak isterseniz e-posta adresinden iletişim kurabilirsiniz (meteantnz@gmail.com)
